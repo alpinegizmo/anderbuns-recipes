@@ -21,7 +21,7 @@ ingredients:
 - ingredient: 5 oz Korean radish or daikon, peeled and cut into matchsticks
 - ingredient: ¼ cup fish sauce
 - ingredient: ⅔ cup gochu-garu (Korean hot pepper flakes)
-- ingredient: 4 scaliions, chopped
+- ingredient: 4 scallions, chopped
 - ingredient: 1.5 ounces Asian chives (or additional scaliions)
 - ingredient: (optional but strongly recommended) 6-12 green shiso leaves, sliced into strips
 tags:
