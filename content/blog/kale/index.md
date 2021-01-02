@@ -18,6 +18,7 @@ ingredients:
 
 tags:
 - Side
+- Vegan(ish)
 
 ---
 
