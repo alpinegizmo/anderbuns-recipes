@@ -49,7 +49,7 @@ Meanwhile: prepare the other ingredients.
 
 #### Step 4
 
-Squeeze the pickled veggies to remove excess water. Add ginger, chili rings, shiso, and kombu. Add vingear and sugar. Reseal bag (remove air) and let sit for 30 minutes (no weight needed).
+Squeeze the pickled veggies to remove excess water. Add ginger, chili rings, shiso, and kombu. Add vinegar and sugar. Reseal bag (remove air) and let sit for 30 minutes (no weight needed).
 
 #### Serve
 
