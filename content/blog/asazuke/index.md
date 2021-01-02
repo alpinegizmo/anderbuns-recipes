@@ -3,7 +3,7 @@ title: Asazuke
 date: "2021-01-01T17:28:30Z"
 description: A Japanese quick-pickle recipe. Very refreshing.
 full_img: './asazuke.jpg'
-prep: "1-2 days"
+prep: "~2 hours"
 servings: 6-ish
 tools:
 - name: Something to weigh down the pickles (we use a 7.5lb barbell)
@@ -23,6 +23,7 @@ ingredients:
 tags:
 - Japanese
 - Pickles
+- Side
 
 ---
 

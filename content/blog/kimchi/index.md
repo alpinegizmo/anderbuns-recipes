@@ -26,7 +26,8 @@ ingredients:
 - ingredient: (optional but strongly recommended) 6-12 green shiso leaves, sliced into strips
 tags:
 - Korean
-- pickles
+- Pickles
+- Side
 
 ---
 
