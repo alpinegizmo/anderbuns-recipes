@@ -6,7 +6,7 @@ full_img: './asazuke.jpg'
 prep: "~2 hours"
 servings: 6-ish
 tools:
-- name: Something to weigh down the pickles (we use a 7.5lb barbell)
+- name: Something to weigh down the pickles (we use an 8lb barbell)
 - name: Plastic produce bag or ziplock
 - name: Kitchen scale
 ingredients:
@@ -37,7 +37,7 @@ Weigh and prepare the veggies (wash and slice). Dry.
 
 #### Step 2
 
-Weigh 2% salt. Place into produce bag or ziplock and add veggies. Shake vigorously to coat veggies, then seal (remove air) and place weight. (We typically place the bag between two dinner plates and weigh down with a 7.5lb barbell). Wait 30-40 minutes.
+Weigh 2% salt. Place into produce bag or ziplock and add veggies. Shake vigorously to coat veggies, then seal (remove air) and place weight. (We typically place the bag between two dinner plates and weigh down with an 8lb barbell). Wait 30-40 minutes.
 
 #### Step 3
 
