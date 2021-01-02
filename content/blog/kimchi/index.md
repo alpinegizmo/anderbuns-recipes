@@ -53,7 +53,7 @@ Prepare the kimchi paste: Put the cooled porridge, garlic, ginger, shiso, fish s
 
 #### Step 5
 
-Leaving the cabbage quarters intact, spread some kimchi paste over each leaf. Pack the cabbage quarters into the four Mason jars or other airtight containers and cover. 
+Leaving the cabbage quarters intact, spread some kimchi paste over each leaf. Pack the cabbage quarters into the four Mason jars or other airtight containers and cover. Leave a little bit of "head room" to allow for fermentation.
 
 #### Step 6
 
