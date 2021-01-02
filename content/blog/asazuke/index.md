@@ -12,13 +12,14 @@ tools:
 ingredients:
 - ingredient: 300g veggies. We recommend a roughly even mixture of cucumber, daikon radish, and nappa cabbage. If necessary, you can omit one of these. We have not tried subsituting an ingredient for anything else, but the original recipe also calls for carrot.
 - ingredient: 2% salt (6g)
-- ingredient: An inch or two of ginger, cut into fine matchsticks
+- ingredient: An inch or so of ginger (10g), cut into very fine matchsticks
 - ingredient: A few chili rings (to taste)
 - ingredident: 1 tbsp rice vinegar
 - ingredient: 1 tbsp sugar (adjust accoridng to taste)
 - ingredient: Bonito flakes (garnish)
 - ingredient: Toasted sesame seeds (garnish)
 - ingredient: 6ish shiso leaves, cut into strips. Optional but highly recommended.
+- ingredient: "Optional: soy sauce to taste."
 - ingredient: "Kombu, cut into strips. Alternative: a pinch of msg and/or extra bonito flakes."
 tags:
 - Japanese
