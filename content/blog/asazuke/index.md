@@ -14,7 +14,7 @@ ingredients:
 - ingredient: 2% salt (6g)
 - ingredient: An inch or so of ginger (10g), cut into very fine matchsticks
 - ingredient: A few chili rings (to taste)
-- ingredident: 1 tbsp rice vinegar
+- ingredient: 1 tbsp rice vinegar
 - ingredient: 1 tbsp sugar (adjust accoridng to taste)
 - ingredient: Bonito flakes (garnish)
 - ingredient: Toasted sesame seeds (garnish)
