@@ -37,7 +37,7 @@ Adapted from:
 
 #### Step 1
 
-Cut each cabbage in half through the core, then cut a slit through the core 2 inches above the stem so that the leaves are loosened but still attached. Dunk the halves in a large bowl of water to moisten all the leaves. Place on a work surface. Sprinkle the salt between the leaves and put the cabbage in a large bowl. Let stand for 1½ hours, turning the cabbage over every 30 minutes.
+Cut cabbage in half through the core, then cut a slit through the core 2 inches above the stem so that the leaves are loosened but still attached. Dunk the halves in a large bowl of water to moisten all the leaves. Place on a work surface. Sprinkle the salt between the leaves and put the cabbage in a large bowl. Let stand for 1½ hours, turning the cabbage over every 30 minutes.
 
 #### Step 2
 
