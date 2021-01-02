@@ -10,7 +10,7 @@ tools:
 - name: Plastic produce bag or ziplock
 - name: Kitchen scale
 ingredients:
-- ingredient: 300g veggies. We recommend a roughly even mixture of cucumber, daikon radish, and nappa cabbage. If necessary, you can omit one of these. We have not tried subsituting an ingredient for anything else, but the original recipe also calls for carrot.
+- ingredient: 300g veggies. We recommend a roughly even mixture of cucumber, daikon radish, and nappa cabbage. If necessary, you can omit one of these. We have not tried substituting an ingredient for anything else, but the original recipe also calls for carrot.
 - ingredient: 2% salt (6g)
 - ingredient: An inch or so of ginger (10g), cut into very fine matchsticks
 - ingredient: A few chili rings (to taste)
