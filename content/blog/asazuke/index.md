@@ -17,7 +17,7 @@ ingredients:
 - ingredident: 1 tbsp rice vinegar
 - ingredient: 1 tbsp sugar (adjust accoridng to taste)
 - ingredient: Bonito flakes (garnish)
-- ingredient: Toasted seasme seeds (garnish)
+- ingredient: Toasted sesame seeds (garnish)
 - ingredient: 6ish shiso leaves, cut into strips. Optional but highly recommended.
 - ingredient: "Kombu, cut into strips. Alternative: a pinch of msg and/or extra bonito flakes."
 tags:
@@ -44,7 +44,7 @@ Meanwhile: prepare the other ingredients.
 
 * Chop the ginger into matchsticks and cut the kombu into strips. The kombu can be cut with strong kitchen scissors but is pretty challenging to cut. It can be made a bit easier to cut by steaming it. The kombu is a nice addition but might not be worth it if your hands are finiky.
 
-* Toast the seasme seeds. This can be done on a dry pan/skillet. If the seasme seeds are white, you can simply let them turn a light golden brown. If they are black (or white), you can wait until they start making soft popping sounds.
+* Toast the sesame seeds. This can be done on a dry pan/skillet. If the seasme seeds are white, you can simply let them turn a light golden brown. If they are black (or white), you can wait until they start making soft popping sounds.
 
 #### Step 4
 
