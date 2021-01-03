@@ -20,7 +20,7 @@ ingredients:
 - ingredient: Toasted sesame seeds (garnish)
 - ingredient: A few shiso leaves, cut into strips. Optional but highly recommended.
 - ingredient: "Optional: soy sauce to taste."
-- ingredient: "Kombu, cut into strips. Alternative: extra bonito flakes (and/or wakame)."
+- ingredient: "1 tsp dried Wakame pieces. (Original recipe calls for kombu strips, which is probably better but a pain to cut.)"
 tags:
 - Japanese
 - Pickles
@@ -43,7 +43,9 @@ Weigh 2% salt. Place into produce bag or ziplock and add veggies. Shake vigorous
 
 Meanwhile: prepare the other ingredients. 
 
-* Chop the ginger into matchsticks and cut the kombu into strips. The kombu can be cut with strong kitchen scissors but is pretty challenging to cut. It can be made a bit easier to cut by steaming it. The kombu is a nice addition but might not be worth it if your hands are finiky. 
+* Chop the ginger into matchsticks.
+
+* If using kombu, cut into strips. The kombu can be cut with strong kitchen scissors but is pretty challenging to cut. It can be made a bit easier to cut by steaming it. The kombu is a nice addition but might not be worth it if your hands are finiky. We substitue 1 tsp dried wakame (already available in small pieces), which isn't quite as good but still tasty. We also add a bit more bontio flakes as garnish at the end.
 
 * Toast the sesame seeds. This can be done on a dry pan/skillet. If the seasme seeds are white, you can simply let them turn a light golden brown. If they are black (or white), you can wait until they start making soft popping sounds.
 
