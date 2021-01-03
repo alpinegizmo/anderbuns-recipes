@@ -13,14 +13,14 @@ ingredients:
 - ingredient: 300g veggies. We recommend a roughly even mixture of cucumber, daikon radish, and nappa cabbage. If necessary, you can omit one of these. We have not tried substituting an ingredient for anything else, but the original recipe also calls for carrot.
 - ingredient: 2% salt (6g)
 - ingredient: An inch or so of ginger (10g), cut into very fine matchsticks
-- ingredient: A few chili rings (to taste)
+- ingredient: "A few chili rings (to taste--do not overdo)"
 - ingredient: 1 tbsp rice vinegar
 - ingredient: 1 tbsp sugar (adjust accoridng to taste)
 - ingredient: Bonito flakes (garnish)
 - ingredient: Toasted sesame seeds (garnish)
 - ingredient: A few shiso leaves, cut into strips. Optional but highly recommended.
 - ingredient: "Optional: soy sauce to taste."
-- ingredient: "1 tsp dried Wakame pieces. (Original recipe calls for kombu strips, which is probably better but a pain to cut.)"
+- ingredient: "1 tsp dried wakame pieces. (Original recipe calls for kombu strips, which is probably better but a pain to cut.)"
 tags:
 - Japanese
 - Pickles
@@ -51,7 +51,7 @@ Meanwhile: prepare the other ingredients.
 
 #### Step 4
 
-Squeeze the pickled veggies to remove excess water. Add ginger, chili rings, shiso, and kombu. Add vinegar and sugar. Reseal bag (remove air) and let sit for 30 minutes (no weight needed).
+Squeeze the pickled veggies to remove excess water. Add ginger, chili rings, shiso, and wakame/kombu. Add vinegar and sugar. Reseal bag (remove air) and let sit for 30 minutes (no weight needed).
 
 #### Serve
 
