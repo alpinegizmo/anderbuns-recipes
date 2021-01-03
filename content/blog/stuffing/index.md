@@ -1,7 +1,7 @@
 ---
 title: Cranberry apple stuffing
 date: "2021-01-02T20:07:30Z"
-description: Savory, herby, and tart. We've replaced the raisins in the original recipe with cranberries, and use fresh sage and more apples (and omit the olives and onions). Be careful not burn yourself when you take the pot out of the oven.
+description: "Savory, herby, and tart. We've replaced the raisins in the original recipe with cranberries, and use fresh sage and more apples (and omit the olives and onions). Be careful not burn yourself when you take the pot out of the oven."
 full_img: './cranberries.jpg'
 prep: "30 minutes"
 cook: "2 hours"
