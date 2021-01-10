@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chez Nosredna]]></title><description><![CDATA[The Chez Nosredna Cookbook]]></description><link>https://alpinegizmo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Jan 2021 08:49:42 GMT</lastBuildDate><item><title><![CDATA[Pie Crust]]></title><description><![CDATA[That’s it: flour + margarine + salt. The margarine shouldn’t have a strong flavor (so avoid brands like Imperial). Also, the lower the milk…]]></description><link>https://alpinegizmo.github.io/pie-crust/</link><guid isPermaLink="false">https://alpinegizmo.github.io/pie-crust/</guid><pubDate>Sun, 03 Jan 2021 11:10:32 GMT</pubDate><content:encoded>&lt;p&gt;That’s it: flour + margarine + salt. The margarine shouldn’t have a strong flavor (so avoid brands like Imperial). Also, the lower the milk solids content, the better.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chez Nosredna]]></title><description><![CDATA[The Chez Nosredna Cookbook]]></description><link>https://alpinegizmo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Jan 2021 10:08:11 GMT</lastBuildDate><item><title><![CDATA[Bran Muffins]]></title><description><![CDATA[Preheat oven to 400°F / 200°C. Pour boiling water over the bran flakes and let stand while mixing other ingredients.  Cream butter and sugar…]]></description><link>https://alpinegizmo.github.io/bran-muffins/</link><guid isPermaLink="false">https://alpinegizmo.github.io/bran-muffins/</guid><pubDate>Sun, 10 Jan 2021 10:05:52 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;Preheat oven to 400°F / 200°C.&lt;/li&gt;
+&lt;li&gt;Pour boiling water over the bran flakes and let stand while mixing other ingredients. &lt;/li&gt;
+&lt;li&gt;Cream butter and sugar. &lt;/li&gt;
+&lt;li&gt;Add eggs and buttermilk.&lt;/li&gt;
+&lt;li&gt;Add Bran Buds and soggy bran flakes, then gradually add in flour, salt, and baking soda. Mix well.&lt;/li&gt;
+&lt;li&gt;Either use a silicone rubber muffin tray, or paper cups (or both). If you use the bare rubber tray, it’s still a good idea to lightly grease the cups. Fill the cups about 3/4 full.&lt;/li&gt;
+&lt;li&gt;Bake at 400°F for 16-18 minutes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt; &lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/6e31c/bran-muffins.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.45945945945946%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAC4jAAAuIwF4pT92AAADKElEQVQozz2T609adxzG+WOWLFu2mDRZlix7sWRZlmVblmzJlsytXZa1cVhvtba1ClKDU0uZV7whFzXxUpW2IlQFDgcUxIo3RLwgIgra7J/47AtL9uJ5c875ffL8nuc5munOOgpRJ9mQlTPVSkYZJKsOc7lmIxscJOUbJhM08zZQT3qxlvRCNQfzlaS99WSWH/DPuoHtyTuEn33Dq67v0Tjbq3i7Mc55eJTz0AhngT5y6gD5iI1ceISjwCjZVQt5pYGt51p2Z7VszWjZcVWR8tyTs61sCtBn/JJ503doLG1aeTghQCtZpZ/Tlb9FZtIrXZwpFg79VlJKD/veBvxjFYQntYSnKom/qCHpvUdmtZnIdCULus+ZavtaHFrauFp3ihsr58FegZk48nRwuNhBxt9LWnWSCHSz464nMlNFcOw20dkqAVaz96qa08ADwuO3mWv8jEnjV2heWFslQxsXq+Iw0CPAZxwKMOXplI/7SsB9AW4t3ic0U40yUUFoWsv63F1is3fJBB7iG77JeN0nOPRfoPHZdeSjdi6khFxogAvRqV9A/n4pyMJJ0M62r4ekokedrWXNVYsypSX+spaEp07O6ng98CtDFTew1H+KRrH+RSE2zmXEwVXMybXoMuogV2xZyjlWRtlckjxj7RwEW8TtY96I2x3PfXnXyHXcyPLQTXp/L6O75mM0SxOdpQzzMp0rAV9L40Xwxao0HhSHioOo20RCaWUv+ITNlcdsLDWy7dexr+o4kdl4R25hvlWGSfsRGu+cmfyaTEbtlywdFErw/yaTUYYkwzFCrnZSYaMADewqTSTDLSUdhJo5jhhwD5TTUf4B7XduCHDeRkGAufDw/y6Lo04HBjnxWUgrdpTnRo7CbeJKz55kmVQN4lgcBps53TDysvcX2n56D+MfZWhU1yBXArqMjJVUWC8C7RxJbgn3UxJeCwu2R8S9TezINbeWmkj4dByoT9gN6knHjMx3l9Pyw7sYfvsQTdxlFnc2+e3kmmvyC6rF7IY4Xu4juWhid6GHya4/ZSo1xN0PSb0u6pEUouc4oJOodMw8/ZGGb9+h8ef3+RcDoMz4MDIlVwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Original recipe&quot;
+        title=&quot;Original recipe&quot;
+        src=&quot;/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/fcda8/bran-muffins.png&quot;
+        srcset=&quot;/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/12f09/bran-muffins.png 148w,
+/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/e4a3f/bran-muffins.png 295w,
+/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/fcda8/bran-muffins.png 590w,
+/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/efc66/bran-muffins.png 885w,
+/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/c83ae/bran-muffins.png 1180w,
+/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/6e31c/bran-muffins.png 3226w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pie Crust]]></title><description><![CDATA[That’s it: flour + margarine + salt. The margarine shouldn’t have a strong flavor (so avoid brands like Imperial). Also, the lower the milk…]]></description><link>https://alpinegizmo.github.io/pie-crust/</link><guid isPermaLink="false">https://alpinegizmo.github.io/pie-crust/</guid><pubDate>Sun, 03 Jan 2021 11:10:32 GMT</pubDate><content:encoded>&lt;p&gt;That’s it: flour + margarine + salt. The margarine shouldn’t have a strong flavor (so avoid brands like Imperial). Also, the lower the milk solids content, the better.&lt;/p&gt;
 &lt;p&gt;This makes enough pie dough for 2 crusts; i.e., enough for a top and a bottom.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DO NOT USE BUTTER.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The margarine should be soft enough to blend in with the flour and salt. It’s not necessary to chill the dough, though chilling doesn’t hurt and can make rolling out easier, tho I rarely do that because i’m usually in a hurry to get the pie done. &lt;/p&gt;
@@ -381,47 +421,7 @@
 &lt;li&gt;Spinach worked nicely as a substitute for lettuce.&lt;/li&gt;
 &lt;li&gt;Toasting the nuts on the stove was worthwhile.&lt;/li&gt;
 &lt;li&gt;Lightly pickling the onion was worthwhile too.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Bran Muffins]]></title><description><![CDATA[Preheat oven to 400°F / 200°C. Pour boiling water over the bran flakes and let stand while mixing other ingredients.  Cream butter and sugar…]]></description><link>https://alpinegizmo.github.io/bran-muffins/</link><guid isPermaLink="false">https://alpinegizmo.github.io/bran-muffins/</guid><pubDate>Sun, 20 Dec 2020 20:13:52 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;Preheat oven to 400°F / 200°C.&lt;/li&gt;
-&lt;li&gt;Pour boiling water over the bran flakes and let stand while mixing other ingredients. &lt;/li&gt;
-&lt;li&gt;Cream butter and sugar. &lt;/li&gt;
-&lt;li&gt;Add eggs and buttermilk.&lt;/li&gt;
-&lt;li&gt;Add Bran Buds and soggy bran flakes, then gradually add in flour, salt, and baking soda. Mix well.&lt;/li&gt;
-&lt;li&gt;Either use a silicone rubber muffin tray, or paper cups (or both). If you use the bare rubber tray, it’s still a good idea to lightly grease the cups. Fill the cups about 2/3 full.&lt;/li&gt;
-&lt;li&gt;Bake at 400°F for 16-18 minutes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt; &lt;/h4&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/6e31c/bran-muffins.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 59.45945945945946%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAC4jAAAuIwF4pT92AAADKElEQVQozz2T609adxzG+WOWLFu2mDRZlix7sWRZlmVblmzJlsytXZa1cVhvtba1ClKDU0uZV7whFzXxUpW2IlQFDgcUxIo3RLwgIgra7J/47AtL9uJ5c875ffL8nuc5munOOgpRJ9mQlTPVSkYZJKsOc7lmIxscJOUbJhM08zZQT3qxlvRCNQfzlaS99WSWH/DPuoHtyTuEn33Dq67v0Tjbq3i7Mc55eJTz0AhngT5y6gD5iI1ceISjwCjZVQt5pYGt51p2Z7VszWjZcVWR8tyTs61sCtBn/JJ503doLG1aeTghQCtZpZ/Tlb9FZtIrXZwpFg79VlJKD/veBvxjFYQntYSnKom/qCHpvUdmtZnIdCULus+ZavtaHFrauFp3ihsr58FegZk48nRwuNhBxt9LWnWSCHSz464nMlNFcOw20dkqAVaz96qa08ADwuO3mWv8jEnjV2heWFslQxsXq+Iw0CPAZxwKMOXplI/7SsB9AW4t3ic0U40yUUFoWsv63F1is3fJBB7iG77JeN0nOPRfoPHZdeSjdi6khFxogAvRqV9A/n4pyMJJ0M62r4ekokedrWXNVYsypSX+spaEp07O6ng98CtDFTew1H+KRrH+RSE2zmXEwVXMybXoMuogV2xZyjlWRtlckjxj7RwEW8TtY96I2x3PfXnXyHXcyPLQTXp/L6O75mM0SxOdpQzzMp0rAV9L40Xwxao0HhSHioOo20RCaWUv+ITNlcdsLDWy7dexr+o4kdl4R25hvlWGSfsRGu+cmfyaTEbtlywdFErw/yaTUYYkwzFCrnZSYaMADewqTSTDLSUdhJo5jhhwD5TTUf4B7XduCHDeRkGAufDw/y6Lo04HBjnxWUgrdpTnRo7CbeJKz55kmVQN4lgcBps53TDysvcX2n56D+MfZWhU1yBXArqMjJVUWC8C7RxJbgn3UxJeCwu2R8S9TezINbeWmkj4dByoT9gN6knHjMx3l9Pyw7sYfvsQTdxlFnc2+e3kmmvyC6rF7IY4Xu4juWhid6GHya4/ZSo1xN0PSb0u6pEUouc4oJOodMw8/ZGGb9+h8ef3+RcDoMz4MDIlVwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Original recipe&quot;
-        title=&quot;Original recipe&quot;
-        src=&quot;/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/fcda8/bran-muffins.png&quot;
-        srcset=&quot;/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/12f09/bran-muffins.png 148w,
-/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/e4a3f/bran-muffins.png 295w,
-/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/fcda8/bran-muffins.png 590w,
-/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/efc66/bran-muffins.png 885w,
-/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/c83ae/bran-muffins.png 1180w,
-/static/a1f9e7fe6376a4d0e23aa7f227e4ec7f/6e31c/bran-muffins.png 3226w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thanksgiving Apple Yam Huzzah]]></title><description><![CDATA[As discovered and enjoyed in Pittsburgh. Step 1 Preheat your oven to 350°F / 175°C.  Mix the sugar, cornstarch, and salt, then put the…]]></description><link>https://alpinegizmo.github.io/apple-yam-huzzah/</link><guid isPermaLink="false">https://alpinegizmo.github.io/apple-yam-huzzah/</guid><pubDate>Sun, 20 Dec 2020 19:38:00 GMT</pubDate><content:encoded>&lt;p&gt;As discovered and enjoyed in Pittsburgh.&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Thanksgiving Apple Yam Huzzah]]></title><description><![CDATA[As discovered and enjoyed in Pittsburgh. Step 1 Preheat your oven to 350°F / 175°C.  Mix the sugar, cornstarch, and salt, then put the…]]></description><link>https://alpinegizmo.github.io/apple-yam-huzzah/</link><guid isPermaLink="false">https://alpinegizmo.github.io/apple-yam-huzzah/</guid><pubDate>Sun, 20 Dec 2020 19:38:00 GMT</pubDate><content:encoded>&lt;p&gt;As discovered and enjoyed in Pittsburgh.&lt;/p&gt;
 &lt;h4&gt;Step 1&lt;/h4&gt;
 &lt;p&gt;Preheat your oven to 350°F / 175°C. &lt;/p&gt;
 &lt;p&gt;Mix the sugar, cornstarch, and salt, then put the mixture in a saucepan, adding the water and butter. Cook until thick.&lt;/p&gt;
