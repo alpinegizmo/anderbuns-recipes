@@ -28,7 +28,7 @@ This makes enough pie dough for 2 crusts; i.e., enough for a top and a bottom.
 
 The margarine should be soft enough to blend in with the flour and salt. It's not necessary to chill the dough, though chilling doesn't hurt and can make rolling out easier, tho I rarely do that because i'm usually in a hurry to get the pie done. 
 
-Divide the two into two halves, one for each crust. Put each dough ball between two 15-inch lengths of plastic wrap, and roll them out this way.
+Divide the dough into two halves, one for each crust. Put each dough ball between two 15-inch lengths of plastic wrap, and roll them out this way.
 
 You can use bottom layer of plastic wrap to help you invert the crust into the pie plate:
 
